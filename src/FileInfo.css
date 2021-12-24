@@ -1,0 +1,12 @@
+.removeAll-btn, .upload-btn{
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.removeAll-btn:hover, .upload-btn:hover{
+    transform: scale(1.07);
+}

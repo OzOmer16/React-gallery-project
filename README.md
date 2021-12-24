@@ -1,10 +1,28 @@
-# Getting Started with Create React App
+# React-gallery-project (with backend integration)
+
+![project-introduction1](./introduction/project-introduction1.png)
+###Upload a file
+![project-introduction2](./introduction/project-introduction2.png)
+###Since our file has .jfif extension, we get this error message
+![project-introduction3](./introduction/project-introduction3.png)
+###We have managed to upload two files
+![project-introduction4](./introduction/project-introduction4.png)
+###We can delete our files one by one with double click
+![project-introduction5](./introduction/project-introduction5.png)
+###We can delete all the files, if we want
+![project-introduction6](./introduction/project-introduction6.png)
+###We can not delete something, if our gallery is empty
+![project-introduction7](./introduction/project-introduction7.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `cd backend`
+### `nodemon server.js`
+Runs the backend server
 
 ### `npm start`
 

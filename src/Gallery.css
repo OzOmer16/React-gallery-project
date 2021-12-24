@@ -1,0 +1,11 @@
+.gallery-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.image-container{
+    max-width: 300px;
+    overflow: hidden;
+    border-radius: 30px;
+}
